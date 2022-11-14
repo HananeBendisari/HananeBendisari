@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HananeBendisari
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning python and solidity
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning python and Javascript
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me hanane.bendisari@gmail.com
 
 <!---
